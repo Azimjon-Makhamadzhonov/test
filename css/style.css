@@ -1,0 +1,43 @@
+
+.color {
+    background: #100E30;
+}
+
+.Portfolio {
+    width: 500px;
+    height: 400px;
+}
+
+.fonts {
+    width: 90px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: #DCD3FF;
+}
+
+.folio {
+    position: absolute;
+    margin-top: 120px;
+    font-size: 50px;
+    color: #00B491;
+}
+
+.img-icon {
+    font-size: 70px;
+}
+
+.progress-bar {
+    background-color: #00b8f0 !important;
+}
+
+.send_search {
+    width: 200px;
+    height: 60px;
+    background: #DCD3FF;
+    border-radius: 10px;
+}
+
+.techno-logy {
+    width: 600px;
+    height: 190px;
+}
